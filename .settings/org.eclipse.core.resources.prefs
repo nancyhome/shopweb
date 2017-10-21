@@ -1,0 +1,6 @@
+eclipse.preferences.version=1
+encoding//src/com/tianyuHouWebMall/domain/Order.java=UTF-8
+encoding//src/com/tianyuHouWebMall/domain/OrderItem.java=UTF-8
+encoding//src/com/tianyuHouWebMall/utils/JedisPoolUtils.java=UTF-8
+encoding//src/com/tianyuHouWebMall/utils/PaymentUtil.java=UTF-8
+encoding//src/com/tianyuHouWebMall/web/filter/AutoLoginFilter.java=UTF-8
